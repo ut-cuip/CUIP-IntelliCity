@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+                                                                                
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "NAME": "Alexander Hamilton U.S. Custom House", "TEL": "(212) 514-3700", "URL": "http:\/\/www.oldnycustomhouse.gov\/", "ADRESS1": "1 Bowling Grn", "ADDRESS2": null, "CITY": "New York", "ZIP": 10004.0 }, "geometry": { "type": "Point", "coordinates": [ -85.311624, 35.045751] } }
+,
+{ "type": "Feature", "id": 1, "properties": { "NAME": "Alice Austen House Museum", "TEL": "(718) 816-4506", "URL": "http:\/\/www.aliceausten.org\/", "ADRESS1": "2 Hylan Blvd", "ADDRESS2": null, "CITY": "Staten Island", "ZIP": 10305.0 }, "geometry": { "type": "Point", "coordinates": [-85.310427, 35.045722 ] } }
+,
+{ "type": "Feature", "id": 2, "properties": { "NAME": "American Academy of Arts and Letters", "TEL": "(212) 368-5900", "URL": "http:\/\/www.artsandletters.org\/", "ADRESS1": "633 W. 155th St.", "ADDRESS2": null, "CITY": "New York", "ZIP": 10032.0 }, "geometry": { "type": "Point", "coordinates": [ -85.309451, 35.045809 ] } }
+,
+{ "type": "Feature", "id": 3, "properties": { "NAME": "American Folk Art Museum", "TEL": "(212) 265-1040", "URL": "http:\/\/www.folkartmuseum.org\/", "ADRESS1": "45 West 53rd Street", "ADDRESS2": null, "CITY": "New York", "ZIP": 10019.0 }, "geometry": { "type": "Point", "coordinates": [ -85.308281, 35.045783] } }
+,
+{ "type": "Feature", "id": 4, "properties": { "NAME": "American Immigration History Center", "TEL": "(212) 363-3200", "URL": "http:\/\/www.ellisisland.org\/", "ADRESS1": "Ellis Island", "ADDRESS2": null, "CITY": "New York", "ZIP": 0.0 }, "geometry": { "type": "Point", "coordinates": [ -85.306908, 35.045247 ] } }
+,
+{ "type": "Feature", "id": 5, "properties": { "NAME": "American Museum of Natural History", "TEL": "(212) 769-5100", "URL": "http:\/\/www.amnh.org\/", "ADRESS1": "Central Park West at 79th Street", "ADDRESS2": null, "CITY": "New York", "ZIP": 10024.0 }, "geometry": { "type": "Point", "coordinates": [ -85.305571 , 35.044743] } }
+,
+{ "type": "Feature", "id": 6, "properties": { "NAME": "American Numismatic Society", "TEL": "(212) 571-4470", "URL": "http:\/\/www.numismatics.org\/", "ADRESS1": "75 Varick St", "ADDRESS2": "11th Floor", "CITY": "New York", "ZIP": 10013.0 }, "geometry": { "type": "Point", "coordinates": [ -85.302912, 35.043768 ] } }
+,
+{ "type": "Feature", "id": 7, "properties": { "NAME": "Americas Society", "TEL": "(212) 249-8950", "URL": "http:\/\/as.americas-society.org\/", "ADRESS1": "680 Park Ave.", "ADDRESS2": null, "CITY": "New York", "ZIP": 10021.0 }, "geometry": { "type": "Point", "coordinates": [ -85.298798, 35.042308 ] } }
+,
+{ "type": "Feature", "id": 8, "properties": { "NAME": "Anne Frank Center USA", "TEL": "(212) 431-7993", "URL": "http:\/\/www.annefrank.com\/", "ADRESS1": "38 Crosby Street", "ADDRESS2": "5th Floor", "CITY": "New York", "ZIP": 10012.0 }, "geometry": { "type": "Point", "coordinates": [ -85.296220, 35.041322 ] } }
+,
+{ "type": "Feature", "id": 9, "properties": { "NAME": "Asia Society", "TEL": "(212) 288-6400", "URL": "http:\/\/www.asiasociety.org\/", "ADRESS1": "725 Park Avenue", "ADDRESS2": null, "CITY": "New York", "ZIP": 10021.0 }, "geometry": { "type": "Point", "coordinates": [ -85.292089, 35.039774 ] } }
+]
+}
